@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.swukon.mvvmarmstemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.swukon.mvvmarmstemplate.MyBundle
 
 class MyApplicationService {
 
